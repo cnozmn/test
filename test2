@@ -1,0 +1,3 @@
+identificationSpecifier = pesImpl.uploadFile
+(source=u'C:\Analytics\La Peña.txt',
+ target=u'/La Peña')
